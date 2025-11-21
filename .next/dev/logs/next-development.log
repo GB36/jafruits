@@ -1,0 +1,20 @@
+[00:00:00.839] Server  LOG      ✓ Ready in 543ms
+[00:00:03.459] Server  LOG     SERVICE:  undefined
+[00:00:03.895] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.306] Browser LOG     SERVICE:  undefined
+[00:00:04.306] Browser LOG     SERVICE:  undefined
+[00:00:30.998] Server  LOG     SERVICE:  undefined
+[00:00:31.507] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:31.709] Browser LOG     SERVICE:  undefined
+[00:00:31.709] Browser LOG     SERVICE:  undefined
+[00:00:58.476] Server  LOG     SERVICE:  undefined
+[00:00:59.034] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:59.242] Browser LOG     SERVICE:  undefined
+[00:00:59.242] Browser LOG     SERVICE:  undefined
+[00:01:06.275] Server  LOG        Reload env: .env.local
+[00:01:06.525] Server  LOG      ✓ Compiled in 204ms
+[00:01:06.726] Browser LOG     SERVICE:  service_cia00c4
+[00:01:06.726] Browser LOG     SERVICE:  service_cia00c4
+[00:01:06.726] Browser LOG     SERVICE:  service_cia00c4
+[00:01:06.726] Browser LOG     SERVICE:  service_cia00c4
+[00:01:24.112] Server  LOG      ✓ Compiled in 67ms
