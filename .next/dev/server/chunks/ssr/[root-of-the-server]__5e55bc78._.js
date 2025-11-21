@@ -78,19 +78,10 @@ const metadata = {
     icons: {
         icon: [
             {
-                url: '/icon-light-32x32.png',
-                media: '(prefers-color-scheme: light)'
-            },
-            {
-                url: '/icon-dark-32x32.png',
-                media: '(prefers-color-scheme: dark)'
-            },
-            {
-                url: '/icon.svg',
-                type: 'image/svg+xml'
+                url: '/light-mode-3.jpg'
             }
         ],
-        apple: '/apple-icon.png'
+        apple: '/jafavicon.png'
     }
 };
 const viewport = {
@@ -116,12 +107,12 @@ function RootLayout({ children }) {
             children: children
         }, void 0, false, {
             fileName: "[project]/app/layout.tsx",
-            lineNumber: 48,
+            lineNumber: 40,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/layout.tsx",
-        lineNumber: 47,
+        lineNumber: 39,
         columnNumber: 5
     }, this);
 }
