@@ -376,7 +376,7 @@ function Partnerships() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "mt-6 text-lg text-primary-foreground/90 max-w-2xl",
-                                        children: "Strategic relationships with global distributors and retailers."
+                                        children: "Strategic relationships with global distributors and retailers, We are working with Mighty Crop Company Limited, a local pineapple farm from which we hold 30% of their share capital. this partnership allows us to be able to export fruits worldwide with all necessary certifications."
                                     }, void 0, false, {
                                         fileName: "[project]/app/partnerships/page.tsx",
                                         lineNumber: 21,

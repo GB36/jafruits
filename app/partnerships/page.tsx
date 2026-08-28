@@ -10,7 +10,7 @@ export default function Partnerships() {
       <main className="min-h-screen">
         {/* Hero */}
         <section className="py-20 md:py-32 bg-primary text-primary-foreground relative overflow-hidden">
-          <div 
+          <div
             className="absolute inset-0 bg-cover bg-center opacity-30"
             style={{
               backgroundImage: 'url(/images/partnerships-header-bg.jpg)'
@@ -19,7 +19,7 @@ export default function Partnerships() {
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-10">
             <h1 className="text-4xl md:text-5xl font-bold text-balance">Export & Partnerships</h1>
             <p className="mt-6 text-lg text-primary-foreground/90 max-w-2xl">
-              Strategic relationships with global distributors and retailers.
+              Strategic relationships with global distributors and retailers, We are working with Mighty Crop Company Limited, a local pineapple farm from which we hold 30% of their share capital. this partnership allows us to be able to export fruits worldwide with all necessary certifications.
             </p>
           </div>
         </section>
