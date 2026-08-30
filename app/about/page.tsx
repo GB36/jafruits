@@ -12,7 +12,9 @@ export default function About() {
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-20">
             <h1 className="text-4xl md:text-5xl font-bold text-balance">About J & A Fruits</h1>
             <p className="mt-6 text-lg text-primary-foreground/90 max-w-2xl">
-              With over three decades of expertise in agricultural exports, we've built a reputation for excellence.
+              Premium
+
+              Founded in 2022, we are a growing force in agricultural exports, committed to delivering premium-quality produce with exceptional standards of reliability, integrity, and service to markets around the world.
             </p>
           </div>
         </section>

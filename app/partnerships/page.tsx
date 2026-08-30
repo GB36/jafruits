@@ -19,7 +19,7 @@ export default function Partnerships() {
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-10">
             <h1 className="text-4xl md:text-5xl font-bold text-balance">Export & Partnerships</h1>
             <p className="mt-6 text-lg text-primary-foreground/90 max-w-2xl">
-              Strategic relationships with global distributors and retailers, We are working with Mighty Crop Company Limited, a local pineapple farm from which we hold 30% of their share capital. this partnership allows us to be able to export fruits worldwide with all necessary certifications.
+              We are looking for strategic relationships with global distributors and retailers. We are working with Mighty Crop Company Limited, a local pineapple farm from which we hold 30% of their share capital. this partnership allows us to be able to export fruits worldwide with all necessary certifications.
             </p>
           </div>
         </section>
@@ -69,7 +69,7 @@ export default function Partnerships() {
               <div className="bg-background p-8 rounded-lg">
                 <h3 className="text-lg font-semibold text-primary mb-4">Global Reach</h3>
                 <p className="text-foreground/70 leading-relaxed mb-4">
-                  We export to over 50 countries across all continents with established logistics networks.
+                  We export to over 24 countries across all continents with established logistics networks.
                 </p>
                 <ul className="text-sm text-foreground/70 space-y-1">
                   <li>Air freight available</li>

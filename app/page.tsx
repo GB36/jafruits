@@ -15,7 +15,7 @@ export default function Home() {
                 Premium Fruits <span className="text-accent">for Global Markets</span>
               </h1>
               <p className="text-lg text-foreground/70 leading-relaxed">
-                J & A Fruits is a premium pineapple exporter established in 2022, committed to sustainable farming practices, world-class quality standards, and excellence in global agricultural trade.
+                J & A Fruits is a premium pineapple producer and supplier, established in 2022. From planting and cultivation to harvesting and distribution, we manage every stage of the process to deliver fresh, high-quality pineapples to companies and markets. With a strong focus on sustainable farming, quality standards, and dependable supply, we are building a trusted name in the agricultural industry.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link href="/products" className="inline-flex items-center justify-center gap-2 px-8 py-3 bg-primary text-primary-foreground font-semibold rounded-lg hover:bg-primary/90 transition-colors">
@@ -48,7 +48,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-semibold">Global Reach</h3>
                 <p className="text-foreground/70 leading-relaxed">
-                  Our products reach over 50 countries, maintaining consistent quality and reliability in every shipment.
+                  Our products reach over 24 countries, maintaining consistent quality and reliability in every shipment.
                 </p>
               </div>
               <div className="space-y-4">
