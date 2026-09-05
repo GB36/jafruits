@@ -48,7 +48,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-semibold">Global Reach</h3>
                 <p className="text-foreground/70 leading-relaxed">
-                  Our products reach over 24 countries, maintaining consistent quality and reliability in every shipment.
+                  Our products are supplied across Africa and Europe, with a commitment to consistent quality, reliability, and excellence in every shipment.
                 </p>
               </div>
               <div className="space-y-4">

@@ -69,7 +69,7 @@ export default function Partnerships() {
               <div className="bg-background p-8 rounded-lg">
                 <h3 className="text-lg font-semibold text-primary mb-4">Global Reach</h3>
                 <p className="text-foreground/70 leading-relaxed mb-4">
-                  We export to over 24 countries across all continents with established logistics networks.
+                  We export to countries across Africa and Europe, supported by established logistics networks that ensure reliable and efficient delivery.
                 </p>
                 <ul className="text-sm text-foreground/70 space-y-1">
                   <li>Air freight available</li>

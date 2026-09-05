@@ -7,7 +7,7 @@ export default function Farms() {
     {
       name: 'Aburi Farm',
       location: 'Ottopayaw, Eastern Region',
-      size: '25 hectares',
+      size: '20 hectares',
       crops: 'Sugarloaf, MD2, Smooth Cayenne Pineapples',
       description: 'Our primary pineapple cultivation facility featuring advanced irrigation systems and sustainable farming practices for premium quality export.',
       image: '/images/aburi-farm.jpg'
@@ -15,7 +15,7 @@ export default function Farms() {
     {
       name: 'Agona West Farm',
       location: 'Agona Asafo, Central Region',
-      size: '100 hectares',
+      size: '80 hectares',
       crops: 'Sugarloaf, MD2, Smooth Cayenne Pineapples',
       description: 'State-of-the-art pineapple growing operation with climate monitoring and precision agricultural techniques ensuring optimal fruit quality.',
       image: '/images/swedru-farm.jpg'

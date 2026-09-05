@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/contact/page": "/contact",
+  "/farms/page": "/farms",
+  "/page": "/",
+  "/partnerships/page": "/partnerships",
+  "/products/page": "/products",
+  "/sustainability/page": "/sustainability"
+}
